@@ -1,4 +1,4 @@
-# 📂 README – Customer Retention & Churn Analysis
+# 📂 Customer Retention & Churn Analysis
 
 ## 1. 📌 Project Overview
 
