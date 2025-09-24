@@ -64,6 +64,7 @@
     4. `PaymentMethod_Electronic check`
     5. `InternetService_Fiber optic`
 
+![Dashboard](Customer_Retention_And_Churn_Analysis/Dashboard/dashboard.png)
 ---
 
 ## 6. ✅ Recommendations
